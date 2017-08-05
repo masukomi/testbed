@@ -1,0 +1,5 @@
+i'm a file in a subdir
+oof
+edited
+once more into the fray
+again
